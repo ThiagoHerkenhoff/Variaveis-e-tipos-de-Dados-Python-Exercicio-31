@@ -1,0 +1,6 @@
+# 31 - Leia um numero inteiro e imprima o seu antecessor e o seu sucessor
+
+n = int(input('Informe um numero inteiro: '))
+a = n - 1
+s = n + 1
+print(f'O numero antecessor do inforado é: {a} e o sucessor é: {s}')
